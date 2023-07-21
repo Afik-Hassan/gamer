@@ -1,0 +1,1409 @@
+.website-view,
+.website-view * {
+  box-sizing: border-box;
+}
+.website-view {
+  background: #ffffff;
+  width: 1920px;
+  height: 5927px;
+  position: relative;
+  overflow: hidden;
+}
+.group-14 {
+  position: absolute;
+  left: 0px;
+  top: 130px;
+  overflow: visible;
+}
+.group-16 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #ffffff;
+  width: 1920px;
+  height: 130px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.group-15 {
+  width: 1440px;
+  height: 56px;
+  position: static;
+}
+.group-2 {
+  width: 253.04px;
+  height: 53px;
+  position: static;
+}
+.gamer {
+  text-align: center;
+  font: 700 45px "Work Sans", sans-serif;
+  position: absolute;
+  left: 346.04px;
+  top: 38px;
+}
+.gamer-span {
+  color: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  font: 700 45px "Work Sans", sans-serif;
+}
+.gamer-span2 {
+  color: #0b0223;
+  font: 700 45px "Work Sans", sans-serif;
+}
+.group-1 {
+  width: 86.04px;
+  height: 40px;
+  position: static;
+}
+.frame {
+  width: 86.04px;
+  height: 40px;
+  position: absolute;
+  left: 240px;
+  top: 44px;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-7 {
+  width: 505px;
+  height: 56px;
+  position: static;
+}
+.group-3 {
+  width: 211px;
+  height: 21px;
+  position: static;
+}
+.about-us {
+  color: #3c354f;
+  text-align: center;
+  font: 500 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1175px;
+  top: 54px;
+}
+.developers {
+  color: #3c354f;
+  text-align: center;
+  font: 500 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1288px;
+  top: 54px;
+}
+.group-6 {
+  width: 262px;
+  height: 56px;
+  position: static;
+}
+.rectangle-1 {
+  background: rgba(11, 2, 35, 0.1);
+  border-radius: 8px;
+  width: 262px;
+  height: 56px;
+  position: absolute;
+  left: 1418px;
+  top: 37px;
+}
+.follow-us-on {
+  color: #3c354f;
+  text-align: center;
+  font: 500 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1442px;
+  top: 54px;
+}
+.group-5 {
+  width: 73.92px;
+  height: 24px;
+  position: static;
+}
+.group-4 {
+  width: 24px;
+  height: 24px;
+  position: static;
+}
+.tik-tok-1 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1631.92px;
+  top: 53px;
+  overflow: hidden;
+}
+.group2 {
+  position: absolute;
+  inset: 0;
+}
+.group3 {
+  position: absolute;
+  left: 4.16px;
+  top: 1.12px;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 1.4px;
+  top: 8.76px;
+  overflow: visible;
+}
+.vector11 {
+  position: absolute;
+  left: 17.94px;
+  top: 4.6px;
+  overflow: visible;
+}
+.vector12 {
+  position: absolute;
+  left: 6.79px;
+  top: 0.05px;
+  overflow: visible;
+}
+.vector13 {
+  position: absolute;
+  left: 2.52px;
+  top: 1.12px;
+  overflow: visible;
+}
+.vector14 {
+  position: absolute;
+  left: 1582px;
+  top: 53px;
+  overflow: visible;
+}
+.group-18 {
+  position: absolute;
+  inset: 0;
+}
+.pngwing-3 {
+  width: 360.89px;
+  height: 235.02px;
+  position: absolute;
+  left: 1327.55px;
+  top: 595px;
+}
+.pngwing-2 {
+  width: 213px;
+  height: 213px;
+  position: absolute;
+  left: 1013px;
+  top: 617px;
+}
+.pngwing-1 {
+  width: 711px;
+  height: 446px;
+  position: absolute;
+  left: 969px;
+  top: 149px;
+}
+.group-20 {
+  position: absolute;
+  inset: 0;
+}
+.group-17 {
+  width: 362px;
+  height: 299px;
+  position: static;
+}
+.group-13 {
+  width: 362px;
+  height: 299px;
+  position: static;
+}
+.group-8 {
+  width: 355px;
+  height: 171px;
+  position: static;
+}
+.play-like-the {
+  color: #0b0223;
+  text-align: center;
+  font: 600 48px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 244px;
+  top: 278px;
+}
+.g-o-a-t {
+  color: linear-gradient(
+    180deg,
+    rgba(249, 72, 178, 1) 0%,
+    rgba(135, 88, 241, 1) 100%
+  );
+  text-align: center;
+  font: 800 95px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 240px;
+  top: 338px;
+}
+.group-12 {
+  width: 362px;
+  height: 104px;
+  position: static;
+}
+.group-9 {
+  width: 223px;
+  height: 24px;
+  position: static;
+}
+._1-click-instant-play {
+  color: #534c64;
+  text-align: center;
+  font: 500 20px "Work Sans", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: 276px;
+  top: 473px;
+}
+.frame2 {
+  position: absolute;
+  left: 240px;
+  top: 473px;
+  overflow: visible;
+}
+.group-10 {
+  width: 167px;
+  height: 24px;
+  position: static;
+}
+.no-download {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 276px;
+  top: 513px;
+}
+.frame3 {
+  position: absolute;
+  left: 240px;
+  top: 513px;
+  overflow: visible;
+}
+.group-11 {
+  width: 362px;
+  height: 24px;
+  position: static;
+}
+._1000-s-of-supported-online-games {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 276px;
+  top: 553px;
+}
+.frame4 {
+  position: absolute;
+  left: 240px;
+  top: 553px;
+  overflow: visible;
+}
+.group-19 {
+  width: 365px;
+  height: 65px;
+  position: static;
+}
+.frame-2 {
+  background: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 240px;
+  top: 617px;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.frame-3 {
+  background: #4ec5f7;
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 420px;
+  top: 617px;
+}
+.go-rogue {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.rectangle-3 {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 66, 165, 0.03) 0%,
+    rgba(255, 66, 165, 0.03) 100%
+  );
+  width: 1920px;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  top: 830px;
+}
+.group-22 {
+  position: absolute;
+  inset: 0;
+}
+.group-21 {
+  width: 520px;
+  height: 200px;
+  position: static;
+}
+.we-are-gamer {
+  color: linear-gradient(
+    180deg,
+    rgba(249, 72, 178, 1) 0%,
+    rgba(135, 88, 241, 1) 100%
+  );
+  text-align: right;
+  font: 700 48px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1355px;
+  top: 925px;
+}
+.an-international-digital-games-and-entertainment-company-we-develop-publish-and-distribute-multiplayer-mobile-games-we-reach-over-400-million-players-each-month-and-our-audience-keeps-growing {
+  color: #534c64;
+  text-align: right;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1160px;
+  top: 1005px;
+  width: 520px;
+}
+.our-purpose-unleash-the-gamer-in-everyone {
+  color: #534c64;
+  text-align: right;
+  position: absolute;
+  left: 1160px;
+  top: 1246px;
+  width: 520px;
+}
+.our-purpose-unleash-the-gamer-in-everyone-span {
+  color: #534c64;
+  font: 500 24px/45px "Work Sans", sans-serif;
+}
+.our-purpose-unleash-the-gamer-in-everyone-span2 {
+  color: #534c64;
+  font: 700 32px/45px "Work Sans", sans-serif;
+}
+.frame-22 {
+  background: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1472px;
+  top: 1157px;
+}
+.know-more {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.pngwing-4 {
+  width: 868px;
+  height: 489px;
+  position: absolute;
+  left: 240px;
+  top: 885px;
+}
+.group-23 {
+  position: absolute;
+  inset: 0;
+}
+.online-games-funny-videos {
+  text-align: right;
+  font: 700 48px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 328px);
+  top: 1550px;
+}
+.online-games-funny-videos-span {
+  color: #0b0223;
+  font: 700 48px "Work Sans", sans-serif;
+}
+.online-games-funny-videos-span2 {
+  color: linear-gradient(
+    180deg,
+    rgba(249, 72, 178, 1) 0%,
+    rgba(135, 88, 241, 1) 100%
+  );
+  font: 700 48px "Work Sans", sans-serif;
+}
+.a-collection-of-hilarious-videos-to-brighten-your-day {
+  color: #534c64;
+  text-align: center;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 232px);
+  top: 1622px;
+}
+.group-24 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  border-radius: 16px;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 240px;
+  top: 1700px;
+}
+.no-download-no-installs-play-games-instantly-on-gamer {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2124px;
+  width: 342px;
+}
+.group-25 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-42 {
+  border-radius: 16px;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 606px;
+  top: 1700px;
+}
+.did-you-score-unblockedgames-school {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 354px);
+  top: 2124px;
+  width: 342px;
+}
+.rectangle-43 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  border-radius: 16px;
+  border-width: 4px;
+  border-style: solid;
+  border-image: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  border-image-slice: 1;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 972px;
+  top: 1700px;
+}
+.breaking-game-records-like-og {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -12px);
+  top: 2124px;
+  width: 244px;
+}
+.group-27 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-44 {
+  border-radius: 16px;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 1338px;
+  top: 1700px;
+}
+.busted-gaming-on-school-laptop-but-you-are-still-lit {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -378px);
+  top: 2124px;
+  width: 342px;
+}
+.group-29 {
+  position: absolute;
+  inset: 0;
+}
+.group-28 {
+  width: 48px;
+  height: 48px;
+  position: static;
+}
+.play-button-1 {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 1120px;
+  top: 1856px;
+  overflow: hidden;
+}
+.group4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.watch-now {
+  color: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  text-align: center;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -127px);
+  top: 1920px;
+}
+.group-62 {
+  position: absolute;
+  inset: 0;
+}
+.group-59 {
+  width: 780px;
+  height: 725.83px;
+  position: static;
+}
+.rectangle-5 {
+  border-radius: 8px;
+  width: 634.83px;
+  height: 650px;
+  position: absolute;
+  left: 1045.17px;
+  top: 2304px;
+}
+.rectangle-6 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 10px;
+  width: 318.5px;
+  height: 365.08px;
+  position: absolute;
+  left: 900px;
+  top: 2664.75px;
+}
+.group-30 {
+  width: 353px;
+  height: 294px;
+  position: static;
+}
+.play-instantly-no-downloads-no-installs {
+  text-align: right;
+  font: 700 48px/60px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 521px);
+  top: 2520px;
+}
+.play-instantly-no-downloads-no-installs-span {
+  color: linear-gradient(
+    180deg,
+    rgba(249, 72, 178, 1) 0%,
+    rgba(135, 88, 241, 1) 100%
+  );
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.play-instantly-no-downloads-no-installs-span2 {
+  color: #0b0223;
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.play-games-online-for-free-without-downloading-just-click-the-play-button-and-play-instantly-in-your-browser {
+  color: #534c64;
+  text-align: right;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 427px;
+  top: 2724px;
+  width: 353px;
+}
+.group-61 {
+  position: absolute;
+  inset: 0;
+}
+.group-60 {
+  width: 846px;
+  height: 773px;
+  position: static;
+}
+.rectangle-62 {
+  border-radius: 8px;
+  width: 710px;
+  height: 650px;
+  position: absolute;
+  left: 238px;
+  top: 3149.83px;
+}
+.rectangle-7 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 10px;
+  width: 318px;
+  height: 365px;
+  position: absolute;
+  left: 766px;
+  top: 3557.83px;
+}
+.group-31 {
+  width: 483px;
+  height: 294px;
+  position: static;
+}
+.play-games-online-anywhere-anytime {
+  text-align: left;
+  font: 700 48px/60px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -237px);
+  top: 3389.83px;
+  width: 426px;
+}
+.play-games-online-anywhere-anytime-span {
+  color: linear-gradient(
+    180deg,
+    rgba(249, 72, 178, 1) 0%,
+    rgba(135, 88, 241, 1) 100%
+  );
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.play-games-online-anywhere-anytime-span2 {
+  color: #0b0223;
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.pc-dad-s-phone-mom-s-tablet-or-your-chromebook-with-gamer-you-can-play-your-favorite-games-online-for-free-any-time-anywhere-on-any-device {
+  color: #534c64;
+  text-align: left;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1197px;
+  top: 3593.83px;
+  width: 483px;
+}
+.rectangle-10 {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 66, 165, 0.03) 0%,
+    rgba(255, 66, 165, 0.03) 100%
+  );
+  width: 1920px;
+  height: 427px;
+  position: absolute;
+  left: 0px;
+  top: 4863.83px;
+}
+.rectangle-72 {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 66, 165, 1) 0%,
+    rgba(255, 66, 165, 1) 100%
+  );
+  width: 1920px;
+  height: 821px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 4042.83px;
+}
+.group-33 {
+  position: absolute;
+  inset: 0;
+}
+.group-32 {
+  width: 680px;
+  height: 204px;
+  position: static;
+}
+.careers {
+  color: #ffffff;
+  text-align: left;
+  font: 700 48px/60px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 4162.83px;
+  width: 426px;
+}
+.gamer-is-driven-to-create-the-best-and-most-fun-games-for-our-millions-of-players-all-around-the-world-and-we-re-always-on-the-lookout-for-more-top-talent-to-join-our-growing-team-if-you-d-like-to-help-us-make-great-games-and-be-a-part-of-gamers-bright-future-we-d-love-to-hear-from-you {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 4246.83px;
+  width: 680px;
+}
+.multimedia-artist-data-engineer-adroid-engineer-server-developer-group-financial-accountant-senior-user-acuisition-specialist {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px/40px "Work Sans", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 4398.83px;
+}
+.lisbon-portugal-lisbon-portugal-zoetermeer-netherlands-lisbon-portugal-london-united-kingdom-lisbon-portugal {
+  color: #ffffff;
+  text-align: right;
+  font: 600 20px/40px "Work Sans", sans-serif;
+  position: absolute;
+  left: 674px;
+  top: 4398.83px;
+}
+.frame-23 {
+  background: #ffffff;
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 240px;
+  top: 4678.83px;
+}
+.see-all-positions {
+  color: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.group-65 {
+  position: absolute;
+  left: 907px;
+  top: 4042.83px;
+  overflow: visible;
+}
+.group-46 {
+  position: absolute;
+  inset: 0;
+}
+.group-44 {
+  width: 1313px;
+  height: 187px;
+  position: static;
+}
+.group-40 {
+  width: 295px;
+  height: 80px;
+  position: static;
+}
+.group-34 {
+  width: 295px;
+  height: 80px;
+  position: static;
+}
+.rectangle-9 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 295px;
+  height: 80px;
+  position: absolute;
+  left: 1099px;
+  top: 4984px;
+}
+.educational-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1185px;
+  top: 5013px;
+}
+.rectangle-11 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1109px;
+  top: 4994px;
+}
+.group-41 {
+  width: 231px;
+  height: 80px;
+  position: static;
+}
+.group-342 {
+  width: 231px;
+  height: 80px;
+  position: static;
+}
+.rectangle-92 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 231px;
+  height: 80px;
+  position: absolute;
+  left: 1407px;
+  top: 4985px;
+}
+.word-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1493px;
+  top: 5014px;
+}
+.rectangle-112 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1417px;
+  top: 4995px;
+}
+.group-42 {
+  width: 299px;
+  height: 80px;
+  position: static;
+}
+.group-343 {
+  width: 299px;
+  height: 80px;
+  position: static;
+}
+.rectangle-93 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 299px;
+  height: 80px;
+  position: absolute;
+  left: 325px;
+  top: 5091px;
+}
+.role-palying-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 411px;
+  top: 5120px;
+}
+.rectangle-113 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 335px;
+  top: 5101px;
+}
+.group-43 {
+  width: 262px;
+  height: 80px;
+  position: static;
+}
+.group-344 {
+  width: 262px;
+  height: 80px;
+  position: static;
+}
+.rectangle-94 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 262px;
+  height: 80px;
+  position: absolute;
+  left: 1281px;
+  top: 5090.83px;
+}
+.strategy-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1367px;
+  top: 5119.83px;
+}
+.rectangle-114 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1291px;
+  top: 5100.83px;
+}
+.group-45 {
+  width: 1008px;
+  height: 188.17px;
+  position: static;
+}
+.group-35 {
+  width: 243px;
+  height: 80px;
+  position: static;
+}
+.group-345 {
+  width: 243px;
+  height: 80px;
+  position: static;
+}
+.rectangle-95 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 243px;
+  height: 80px;
+  position: absolute;
+  left: 239px;
+  top: 4983.83px;
+}
+.action-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 325px;
+  top: 5012.83px;
+}
+.rectangle-115 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 249px;
+  top: 4993.83px;
+}
+.group-36 {
+  width: 281px;
+  height: 80px;
+  position: static;
+}
+.group-346 {
+  width: 281px;
+  height: 80px;
+  position: static;
+}
+.rectangle-96 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 281px;
+  height: 80px;
+  position: absolute;
+  left: 509px;
+  top: 4983.83px;
+}
+.adventure-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 595px;
+  top: 5012.83px;
+}
+.rectangle-116 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 519px;
+  top: 4993.83px;
+}
+.group-37 {
+  width: 248px;
+  height: 80px;
+  position: static;
+}
+.group-347 {
+  width: 248px;
+  height: 80px;
+  position: static;
+}
+.rectangle-97 {
+  background: #ffffff;
+  border-radius: 50px;
+  border-width: 1.5px;
+  border-style: solid;
+  border-image: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  border-image-slice: 1;
+  width: 248px;
+  height: 80px;
+  position: absolute;
+  left: 817px;
+  top: 4983.83px;
+}
+.arcade-games {
+  color: var(
+    --linear,
+    linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%)
+  );
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 903px;
+  top: 5012.83px;
+}
+.rectangle-117 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 827px;
+  top: 4993.83px;
+}
+.group-38 {
+  width: 317px;
+  height: 80px;
+  position: static;
+}
+.group-348 {
+  width: 317px;
+  height: 80px;
+  position: static;
+}
+.rectangle-98 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 317px;
+  height: 80px;
+  position: absolute;
+  left: 657px;
+  top: 5092px;
+}
+.music-audio-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 743px;
+  top: 5121px;
+}
+.rectangle-118 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 667px;
+  top: 5102px;
+}
+.group-39 {
+  width: 244px;
+  height: 80px;
+  position: static;
+}
+.group-349 {
+  width: 244px;
+  height: 80px;
+  position: static;
+}
+.rectangle-99 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 244px;
+  height: 80px;
+  position: absolute;
+  left: 1003px;
+  top: 5091px;
+}
+.puzzle-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1089px;
+  top: 5120px;
+}
+.rectangle-119 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1013px;
+  top: 5101px;
+}
+.group-56 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1110 {
+  background: #0b0223;
+  width: 1920px;
+  height: 636px;
+  position: absolute;
+  left: 0px;
+  top: 5290.83px;
+}
+.group-55 {
+  width: 814px;
+  height: 396px;
+  position: static;
+}
+.group-54 {
+  width: 708px;
+  height: 86px;
+  position: static;
+}
+.frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 354px);
+  top: 5720.83px;
+}
+.terms-and-conditions {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.privacy-policy {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.cookie-policy {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.privacy-settings {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 226px);
+  top: 5767.83px;
+}
+.play-games-gamer-2000-2023-gamer-bangladesh {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.gamer2 {
+  text-align: center;
+  font: 700 45px "Work Sans", sans-serif;
+  position: absolute;
+  left: 939.04px;
+  top: 5410.83px;
+}
+.gamer-2-span {
+  color: linear-gradient(
+    90deg,
+    rgba(255, 66, 165, 1) 0%,
+    rgba(255, 66, 165, 1) 100%
+  );
+  font: 700 45px "Work Sans", sans-serif;
+}
+.gamer-2-span2 {
+  color: #ffffff;
+  font: 700 45px "Work Sans", sans-serif;
+}
+.frame5 {
+  width: 86.04px;
+  height: 40px;
+  position: absolute;
+  left: 833px;
+  top: 5416.83px;
+  overflow: hidden;
+}
+.group5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 407px);
+  top: 5519.83px;
+}
+.our-story {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.games {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.web-games {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.careers2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.support {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.my-account {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.group-53 {
+  width: 457.13px;
+  height: 40px;
+  position: static;
+}
+.group-47 {
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.twitter-1 {
+  position: absolute;
+  left: 731px;
+  top: 5616.83px;
+  overflow: visible;
+}
+.group-48 {
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.facebook-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 811px;
+  top: 5616.83px;
+  overflow: hidden;
+}
+.group6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-49 {
+  position: absolute;
+  left: 891px;
+  top: 5616.83px;
+  overflow: visible;
+}
+.group-50 {
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.linkedin-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 988.13px;
+  top: 5616.83px;
+  overflow: hidden;
+}
+.x-31-0-linkedin {
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.group-51 {
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.instagram-1 {
+  position: absolute;
+  left: 1068.13px;
+  top: 5616.83px;
+  overflow: visible;
+}
+.group-52 {
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.apple-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1148.13px;
+  top: 5616.83px;
+  overflow: hidden;
+}
+.group7 {
+  position: absolute;
+  left: 19.34px;
+  top: 0px;
+  overflow: visible;
+}
+.group8 {
+  position: absolute;
+  left: 2.92px;
+  top: 9.36px;
+  overflow: visible;
+}

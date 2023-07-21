@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    display: grid;
+  grid-column-start: span;
+    gap: 3px;
+}
+
+.food{
+    border: 1px solid white;
+    box-shadow: 3px 3px 3px rgb(63, 63, 63);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.food img{
+  width: 100%;
+}
